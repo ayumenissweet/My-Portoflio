@@ -1,0 +1,16 @@
+Font : Ubuntu 400,600
+
+Colors : 
+Background : #07020D
+Buttons/Links : #6630EE
+Typography : #FFFCF9
+Cards : #1D1A31
+Nav Bar : #1D1A31
+
+Screenshot is for a MacBook Air Desktop (1280width)
+
+sizes : 
+h1 : 64px
+h2 : 50px
+links : 40px
+button text : 35px
