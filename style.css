@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+
+  background-color: #07020d;
+  color: #fffcf9;
+}
+
+.website {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px;
+}
+
+.nav-elements {
+  display: flex;
+  gap: 24px;
+  background-color: rgba(29, 26, 49, 0.2);
+  padding: 24px;
+  justify-content: flex-end;
+}
+
+.nav-elements a {
+  color: #fffcf9;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.profile {
+  display: flex;
+  gap: 24px;
+}
+
+.profile p {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.profile a {
+  color: #6630ee;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+}
+
+.card {
+  background-color: #1d1a31;
+  border-radius: 18px;
+  padding: 10px 20px;
+}
+
+.card p {
+  font-size: 20px;
+  line-height: 1.4;
+}
+
+.techs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: space-between;
+}
+
+.tech-container {
+  background-color: #1d1a31;
+  border-radius: 18px;
+  padding: 10px 20px;
+}
